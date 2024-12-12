@@ -43,22 +43,27 @@
   </section>
 
   <!-- 4 -->
-  <section class="half d-flex flex-column justify-content-center px-2">
+  <section class="half text-center px-2 d-flex flex-column justify-content-evenly">
     <div class="h1 text-center font-wide mb-5">Hyperlinks</div>
     <div class="container">
       <div class="row">
         <div class="col-md-4 text-center font-wide h4 my-3"><a target="_blank" rel="noreferrer" rel="noopener" href="https://www.github.com/whirledsol">GitHub</a></div>
         <div class="col-md-4 text-center font-wide h4 my-3"><a target="_blank" rel="noreferrer" rel="noopener" href="https://www.linkedin.com/in/willerhodes">LinkedIn</a></div>
-        <div class="col-md-4 text-center font-wide h4 my-3"><a target="_blank" rel="noreferrer" rel="noopener" href="javascript:void(0)" onclick="emailLink('chat@willrhod.es','Curious about Demos')">Demos</a></div>
+        <div class="col-md-4 text-center font-wide h4 my-3"><a                rel="noreferrer" rel="noopener" href="javascript:void(0)" onclick="emailLink('chat@willrhod.es','Curious about Demos')">Demos</a></div>
         
 
         <div class="col-md-4 text-center font-wide h4 my-3"><a target="_blank" rel="noreferrer" rel="noopener" href="https://tech.lgbt/@paleblueyedot">Mastodon</a></div>
         <div class="col-md-4 text-center font-wide h4 my-3"><a target="_blank" rel="noreferrer" rel="noopener" href="./assets/images/under_construction.png">Blog?</a></div>
-        <div class="col-md-4 text-center font-wide h4 my-3"><a target="_blank" rel="noreferrer" rel="noopener" href="javascript:void(0)" onclick="emailLink('chat@willrhod.es')">Email</a></div>
+        <div class="col-md-4 text-center font-wide h4 my-3"><a                rel="noreferrer" rel="noopener" href="javascript:void(0)" onclick="emailLink('chat@willrhod.es')">Email</a></div>
       </div>
     </div>
+
+    <div class="fs-8 mt-3">&copy; <span class="this-year"></span> WhirledSol</div>
   </section>
   <script src="assets/scripts.js"></script>
+  <script>
+    document.querySelectorAll('.this-year').forEach(e=>e.textContent=new Date().getFullYear());
+  </script>
 </body>
 
 </html>
