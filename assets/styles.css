@@ -1,0 +1,60 @@
+:root {
+	--dark: #02010f;
+	--primary: #201a60;
+	--light: #afaeba  ;
+	--warning: #f77f07 ;
+}
+
+@font-face {
+    font-family: 'Gruppo'; /*a name to be used later*/
+    src: url('./fonts/Gruppo/Gruppo-Regular.ttf'); /*URL to font*/
+}
+/*base.css*/
+body,html { 
+	padding:0;
+	margin:0;
+	background-color: var(--dark);
+	color: var(--light);
+	font-size:16px;
+	font-family: Georgia;
+}
+
+
+/*colors.css*/
+.bg-primary{
+	background-color: var(--primary) !important;
+}
+
+
+/*components.css*/
+section.half{
+	width:100%;
+	min-height:50vh;
+}
+
+
+/*typography.css*/
+.font-wide{
+	font-family:'Gruppo',Georgia;
+	line-height:3rem;
+}
+
+.h1,.h2,.h3,.h4,.h5{
+	margin:0;
+	padding:0;
+	font-weight:normal;
+}
+.h0{
+	font-size:4.5rem;
+	font-weight:normal;
+}
+
+.rotate90 {
+	transform: rotate(-90deg);
+}
+.rotate180 {
+	transform: rotate(-180deg);
+}
+.text-justify{
+	text-align: justify;
+}
