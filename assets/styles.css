@@ -1,8 +1,8 @@
 :root {
-	--dark: #02010f;
-	--primary: #201a60;
-	--light: #afaeba  ;
-	--warning: #f77f07 ;
+	--dark: #0e0726;
+	--primary: #261466;
+	--light: #9d8cd8  ;
+	--warning: #d8682b ;
 }
 
 @font-face {
@@ -25,11 +25,28 @@ body,html {
 	background-color: var(--primary) !important;
 }
 
+.gradient-dark{
+	background: var(--dark);
+	background: linear-gradient(0deg, black 0%, var(--dark) 100%);
+}
 
 /*components.css*/
 section.half{
 	width:100%;
 	min-height:50vh;
+}
+
+
+.comet{
+	height:25vh;
+	display:block;
+	max-width:100%;
+	margin-bottom:-2rem;
+	mix-blend-mode: lighten;
+}
+.animate__animated.comet {
+	--animate-duration: 5s;
+	--animate-delay: 1s;
 }
 
 
@@ -39,10 +56,11 @@ section.half{
 	line-height:3rem;
 }
 
-.h1,.h2,.h3,.h4,.h5{
+.h0,.h1,.h2,.h3,.h4,.h5{
 	margin:0;
 	padding:0;
 	font-weight:normal;
+	z-index:100;
 }
 .h0{
 	font-size:4.5rem;
@@ -63,3 +81,4 @@ section.half{
 .text-justify{
 	text-align: justify;
 }
+
