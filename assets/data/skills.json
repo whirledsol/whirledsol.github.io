@@ -1,0 +1,497 @@
+[
+    {
+        "Name": "Java",
+        "Started": "09/01/2011",
+        "Comments": "Worked with Android, interfaces, inheritance, polymorphism, reflection, hashing, encoding, Swing GUIs, annotations, and more."
+    },
+    {
+        "Name": "C++",
+        "Started": "01/01/2011",
+        "Comments": "Built many executables using everything from recursion to pointers."
+    },
+    {
+        "Name": "Matlab",
+        "Started": "01/01/2011",
+        "Comments": "Graphing and data manipulation."
+    },
+    {
+        "Name": "Mathematica",
+        "Started": "09/01/2011",
+        "Comments": "Modules, data analysis, graphing, models, and permutation manipulation."
+    },
+    {
+        "Name": "SciLab",
+        "Started": "05/01/2011",
+        "Comments": "A clean-cut alternative to Matlab with a reliable syntax."
+    },
+    {
+        "Name": "Python",
+        "Started": "01/01/2012",
+        "Comments": "Data analysis with MatPlotLib and scipy."
+    },
+    {
+        "Name": "JavaScript",
+        "Started": "01/01/2009",
+        "Comments": "From standalone to jQuery to Node, one learns to love JavaScript."
+    },
+    {
+        "Name": "Bash Shell",
+        "Started": "09/01/2011",
+        "Comments": "Used for running ssh, sch, vim, vm, logging, etc…"
+    },
+    {
+        "Name": "ASP.NET",
+        "Started": "06/01/2012",
+        "Comments": "Built and supported Web APIs and MVC projects."
+    },
+    {
+        "Name": "ASP Classic",
+        "Started": "11/01/2011",
+        "Comments": "Utilizes vbscript, HTML, JavaScript, CSS, and other middleware for web applications."
+    },
+    {
+        "Name": "vbscript",
+        "Started": "11/01/2011",
+        "Comments": "Extensive object manipulation and server-side processing/security for web programs."
+    },
+    {
+        "Name": "vba",
+        "Started": "11/01/2011",
+        "Comments": "Designed macros for Microsoft Excel and Access."
+    },
+    {
+        "Name": "HTML",
+        "Started": "01/01/2005",
+        "Comments": "Over a decade of experience with legacy HTML support (e.g. IE unit testing) and HTML5 (e.g. canvas and CSS3)."
+    },
+    {
+        "Name": "T-SQL",
+        "Started": "12/01/2010",
+        "Comments": "Supported multiple databases utilizing replication, data merging, extensive queries with multiple joins, data structure manipulation, etc.."
+    },
+    {
+        "Name": "PostgreSQL",
+        "Started": "02/01/2014",
+        "Comments": "(Fun fact: I'm using it here.)"
+    },
+    {
+        "Name": "Word",
+        "Started": "01/01/2000",
+        "Comments": "Navigating and formatting in all versions of this WYSIWYG word processor. Specializing in PDF and HTML integration."
+    },
+    {
+        "Name": "Excel",
+        "Started": "01/01/2004",
+        "Comments": "Macros, data comparisons, drivers, and formatting."
+    },
+    {
+        "Name": "PowerPoint",
+        "Started": "01/01/2001",
+        "Comments": "Animations, transitions, embedded objects. (Fun fact: LaTeK also yields impressive presentations.)"
+    },
+    {
+        "Name": "Photoshop",
+        "Started": "01/01/2008",
+        "Comments": "Image rendering from logos to whole landscapes."
+    },
+    {
+        "Name": "GIMP",
+        "Started": "01/01/2019",
+        "Comments": "Image processing in environments where Photoshop was not available."
+    },
+    {
+        "Name": "UnityScript",
+        "Started": "09/01/2013",
+        "Comments": "Game creation using random object generation and recursion"
+    },
+    {
+        "Name": "PowerShell",
+        "Started": "10/01/2014",
+        "Comments": "File manipulations and ah-hoc jobs, including database queries."
+    },
+    {
+        "Name": "Maya",
+        "Started": "09/01/2013",
+        "Comments": "Object modeling, Maya scripting, and particle creation."
+    },
+    {
+        "Name": "Ubuntu",
+        "Started": "01/01/2006",
+        "Comments": "Creating bootable partitions to allow for Linux terminal use."
+    },
+    {
+        "Name": "Cygwin",
+        "Started": "09/01/2011",
+        "Comments": "Used for running ssh, sch, vim, vm, logging, etc… on Windows. "
+    },
+    {
+        "Name": "Node.js",
+        "Started": "01/01/2015",
+        "Comments": "Express, brunch, less/Sass integration, swig, handlebars, nodemon, npm, and more…"
+    },
+    {
+        "Name": "Flask",
+        "Started": "1/1/2015",
+        "Comments": "Helped convert to and from node.js and compile/debug web applications with this Python-based framework."
+    },
+    {
+        "Name": "MVC",
+        "Started": "06/01/2012",
+        "Comments": "Model-View-Controller framework, integrated with .NET for web applications."
+    },
+    {
+        "Name": "LaTeK",
+        "Started": "01/01/2011",
+        "Comments": "Document processing software with extensive knowledge of embedded tables, objects, footnotes, equations, etc…"
+    },
+    {
+        "Name": "jQuery",
+        "Started": "01/01/2011",
+        "Comments": "Use of event binding, Ajax, etc... with a focus on responsiveness and browser compatibility."
+    },
+    {
+        "Name": "MooTools",
+        "Started": "11/01/2010",
+        "Comments": "Maintenance and legacy support of this JavaScript extension, which is an early competitor of jQuery."
+    },
+    {
+        "Name": "Fortran",
+        "Started": "01/01/2012",
+        "Comments": "Numerical data analysis and FORTRAN integration with Mathematica and C++ applications"
+    },
+    {
+        "Name": "Maxim DL",
+        "Started": "06/01/2013",
+        "Comments": "Astroimaging processor. Worked with metadata analysis, image stacking, and image processing for remote observations."
+    },
+    {
+        "Name": "CSS3",
+        "Started": "10/01/2010",
+        "Comments": "Use of media queries for responsive layouts, L3+L4 selectors, CSS shapes, and browser support for new style attributes."
+    },
+    {
+        "Name": "Android Studio",
+        "Started": "11/01/2014",
+        "Comments": "Built and maintained multiple android applications using Android's new supported IDE. Converted and tested apps from Eclipse."
+    },
+    {
+        "Name": "Eclipse IDE",
+        "Started": "09/01/2009",
+        "Comments": "Project setup, support, and deployment with this open-source IDE. Used for PHP web applications, Java, and Android phone apps."
+    },
+    {
+        "Name": "Stellarium",
+        "Started": "09/01/2007",
+        "Comments": "Digital planetarium with telescope removing integration. Used as a teaching tool and for observing."
+    },
+    {
+        "Name": "Processing",
+        "Started": "01/01/2012",
+        "Comments": "A Java based framework for visual 2D and 3D GUIs and visualizations. Used in kiosks, for data visualization, and for Arduino output."
+    },
+    {
+        "Name": "TheSky",
+        "Started": "06/01/2013",
+        "Comments": "Remote telescope observing with image focusing, rendering, and exposing."
+    },
+    {
+        "Name": "RedHat",
+        "Started": "09/01/2011",
+        "Comments": "Linux OS utilizing bash for lightweight java and C++ apps."
+    },
+    {
+        "Name": "PHP",
+        "Started": "09/01/2009",
+        "Comments": "Multiple web apps using this server-side language. Integrated with PostgreSQL, JavaScript, and more…"
+    },
+    {
+        "Name": "Adobe Premiere",
+        "Started": "09/01/2009",
+        "Comments": "Video editing for local video stations including sound/video cleaning and rendering."
+    },
+    {
+        "Name": "Sony Vegas Studio",
+        "Started": "09/01/2008",
+        "Comments": "Extensive video editing including transitions, effects, sound leveling, and more…"
+    },
+    {
+        "Name": "Audacity",
+        "Started": "09/01/2006",
+        "Comments": "Audio editing for podcasts, music, and sound effects."
+    },
+    {
+        "Name": "Mixcraft",
+        "Started": "07/01/2008",
+        "Comments": "Audio editing for music and video tracks utilizing sound normalization and layers."
+    },
+    {
+        "Name": "FileZilla FTP",
+        "Started": "09/01/2009",
+        "Comments": "Popular file transfer protocol software, used for both file sharing and website hosting. Integrated with other applications for automatic uploads and downloads."
+    },
+    {
+        "Name": "Bootstrap CSS",
+        "Started": "09/01/2014",
+        "Comments": "Used alongside jQuery to provide responsive, minimalist, supportive web pages. Ask for examples!"
+    },
+    {
+        "Name": "Tortoise SVN",
+        "Started": "12/01/2011",
+        "Comments": "Version control use, branching, merging, and conflict resolution."
+    },
+    {
+        "Name": "Git",
+        "Started": "03/01/2014",
+        "Comments": "Version control use, branching, merging, and conflict resolution. Use with github and other online repositories."
+    },
+    {
+        "Name": "C#",
+        "Started": "06/01/2012",
+        "Comments": "Standalone programs and integration with .NET and MVC."
+    },
+    {
+        "Name": "Arduino",
+        "Started": "01/01/2011",
+        "Comments": "Compiling and designing, both the hardware and software, for this portable processor. Integration with web data, JSON, and processing."
+    },
+    {
+        "Name": "less CSS",
+        "Started": "01/01/2015",
+        "Comments": "Variables, mixins, operations, escaping, minifying: used in JavaScript, node.js, and flask."
+    },
+    {
+        "Name": "Sass",
+        "Started": "06/01/2015",
+        "Comments": "Variables, mixins, operations, escaping, minifying: used in node, React, and C#"
+    },
+    {
+        "Name": "MongoDB",
+        "Started": "07/01/2017",
+        "Comments": "Cloud stored and local stored data; indexing; data cleaning; pipeline aggregation."
+    },
+    {
+        "Name": "Angular JS",
+        "Started": "07/01/2017",
+        "Comments": "Dynamic, single-paged apps using components. More partial to React.js"
+    },
+    {
+        "Name": "Underscore.js",
+        "Started": "04/01/2017",
+        "Comments": "Templating in Javascript for data entry and other web apps"
+    },
+    {
+        "Name": "React.js",
+        "Started": "12/01/2017",
+        "Comments": "Handfuls of single page apps from data entry tools to questionnaires."
+    },
+    {
+        "Name": "MobX",
+        "Started": "06/15/2018",
+        "Comments": "Used in conjunction with React for data stores."
+    },
+    {
+        "Name": "Vue.js",
+        "Started": "02/01/2019",
+        "Comments": "Used to make a few quick websites, such as 'RecipeHub.'"
+    },
+    {
+        "Name": "Redgate",
+        "Started": "11/01/2014",
+        "Comments": "Schema and data comparison/deployment in replicated environments."
+    },
+    {
+        "Name": "Aspose",
+        "Started": "09/15/2014",
+        "Comments": "Automating Microsoft Office and PDF documents using merge fields."
+    },
+    {
+        "Name": "JAMS Scheduler",
+        "Started": "01/01/2015",
+        "Comments": "Creating/maintaining batch jobs and developing a C# wrapper around the server."
+    },
+    {
+        "Name": "Visual Studio IDE",
+        "Started": "01/01/2013",
+        "Comments": "Experience with nuget, command line control, refactoring, version integration, and reference resolving."
+    },
+    {
+        "Name": "Beyond Compare",
+        "Started": "01/01/2015",
+        "Comments": "Directory and file merging and custom comparison rules."
+    },
+    {
+        "Name": "Sellenium",
+        "Started": "12/01/2018",
+        "Comments": "Using in Node and through C# to automate testing and pull reports respectively."
+    },
+    {
+        "Name": "TypeScript",
+        "Started": "09/01/2018",
+        "Comments": "Converting heavily-used Javascript code to TypeScript for better compile-time error handling."
+    },
+    {
+        "Name": "NUnit",
+        "Started": "05/01/2019",
+        "Comments": "Using as a unit testing framework for C# webapps."
+    },
+    {
+        "Name": "Trello",
+        "Started": "05/01/2016",
+        "Comments": "Lightweight tool for project management."
+    },
+    {
+        "Name": "Azure DevOps",
+        "Started": "12/15/2019",
+        "Comments": "Tracking agile development, git control, creation of Artifact feeds."
+    },
+    {
+        "Name": "ADO.NET",
+        "Started": "04/15/2020",
+        "Comments": "Integration of Azure DevOps features (e.g. IdP authentication) into an application."
+    },
+    {
+        "Name": "Google Analytics",
+        "Started": "04/15/2019",
+        "Comments": "Querying site usage and statistics."
+    },
+    {
+        "Name": "Kotlin",
+        "Started": "01/15/2020",
+        "Comments": "Using in place of Java for Android development."
+    },
+    {
+        "Name": "Webpack",
+        "Started": "11/15/2018",
+        "Comments": "Bundler for React applications in tandem with typescript and babel."
+    },
+    {
+        "Name": "OWIN Auth",
+        "Started": "3/15/2020",
+        "Comments": "Maintaining and expanding a custom IdP Api built on OWIN libraries."
+    },
+    {
+        "Name": "SAML",
+        "Started": "12/15/2018",
+        "Comments": "Created multiple SSO connections as the SP. Primarily using ComponentSpace libraries."
+    },
+    {
+        "Name": "Open CV",
+        "Started": "5/01/2019",
+        "Comments": "Used in python for image recognition and processing."
+    },
+    {
+        "Name": "Gulp",
+        "Started": "9/01/2018",
+        "Comments": "Used in Visual Studio for building pre-processing."
+    },
+    {
+        "Name": ".Net Core",
+        "Started": "05/01/2018",
+        "Comments": "Consoled, web apps, and APIs. Also experienced in migration of .Net Framework applications to netstandard 2.0+."
+    },
+    {
+        "Name": "Blender",
+        "Started": "05/01/2014",
+        "Comments": "Used as an alternative to Maya. Scripted in python and manual editing of 3D models."
+    },
+    {
+        "Name": "Docker",
+        "Started": "08/01/2020",
+        "Comments": "Dockerized node.js projects for production."
+    },
+    {
+        "Name": "Nginx",
+        "Started": "08/01/2020",
+        "Comments": "Setup linux production servers manually for local files and reverse-proxy"
+    },
+    {
+        "Name": "Markdown",
+        "Started": "01/01/2020",
+        "Comments": "Extensive use for documentation"
+    },
+    {
+        "Name": "Azure Portal",
+        "Started": "07/01/2020",
+        "Comments": "Spinning up VMs, databases, and VPNs for production-ready cloud hosting."
+    },
+    {
+        "Name": "SSRS",
+        "Started": "05/01/2021",
+        "Comments": "Used to spin-up quick reports from SQL."
+    },
+    {
+        "Name": "Drupal",
+        "Started": "08/01/2021",
+        "Comments": "Maintaining and enhancing hosted PHP sites using Drupal."
+    },
+    {
+        "Name": "SSDT",
+        "Started": "08/01/2020",
+        "Comments": "SQL Server Data Tools for schema standardization and deployment."
+    },
+    {
+        "Name": "Test Cafe",
+        "Started": "08/01/2021",
+        "Comments": "Used for easy integrative testing and automation in addition to Selenium."
+    },
+    {
+        "Name": "MailChimp",
+        "Started": "10/15/2022",
+        "Comments": "Email campaigns and signup preferences for a variety of audiences."
+    },
+    {
+        "Name": "Mandrill",
+        "Started": "10/15/2022",
+        "Comments": "Transactional Emails integrated with the application."
+    },
+    {
+        "Name": "Material UI (MUI)",
+        "Started": "04/01/2019",
+        "Comments": "MUI 4.0 and 5.0 components. Migrations. Special consideration when integration with Bootstrap."
+    },
+    {
+        "Name": "Kajabi",
+        "Started": "04/01/2022",
+        "Comments": "Building a Kajabi LMS site from scratch. Directing a team on implementation."
+    },
+    {
+        "Name": "Stripe",
+        "Started": "12/01/2017",
+        "Comments": "Stripe API integration along with standalone Stripe Products."
+    },
+    {
+        "Name": "Power BI",
+        "Started": "12/01/2022",
+        "Comments": "Used in replacing SSRS. Special interest in map visualization."
+    },
+    {
+        "Name": "Cisco Firewall ASA",
+        "Started": "04/01/2021",
+        "Comments": "VPN setup, maintenance, and monitoring."
+    },
+    {
+        "Name": "Cisco Meraki",
+        "Started": "08/01/2024",
+        "Comments": "VPN setup, maintenance, and monitoring."
+    },
+    {
+        "Name": "MuseScore",
+        "Started": "08/01/2014",
+        "Comments": "Music composition."
+    },
+    {
+        "Name": "DaVinci Resolve",
+        "Started": "11/15/2022",
+        "Comments": "Video editing with video effects, generators, and tracking."
+    },
+    {
+        "Name": "esbuild",
+        "Started": "04/11/2025",
+        "Comments": "Modern and quick approach to webpack"
+    },
+    {
+        "Name": "vite.js",
+        "Started": "04/08/2025",
+        "Comments": "Modern and quick approach to webpack"
+    }
+]

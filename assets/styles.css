@@ -1,7 +1,7 @@
 :root {
 	--dark: #0e0726;
-	--primary: #261466;
-	--light: #9d8cd8  ;
+	--primary: hsl(240, 60%, 35%);
+	--light: hsl(253, 49%, 80%)  ;
 	--warning: #d8682b ;
 }
 
@@ -19,6 +19,16 @@ body,html {
 	font-family: Georgia;
 }
 
+a,.action-link{
+	color:var(--light);
+	transition: transform 200ms;
+}
+a:hover,.action-link:hover{
+	transform:scale(1.25);
+}
+.action-link{
+	cursor:pointer;
+}
 
 /*colors.css*/
 .bg-primary{
@@ -37,16 +47,23 @@ section.half{
 }
 
 
-.comet{
+.component-comet{
 	height:25vh;
 	display:block;
 	max-width:100%;
 	margin-bottom:-2rem;
 	mix-blend-mode: lighten;
 }
-.animate__animated.comet {
-	--animate-duration: 5s;
-	--animate-delay: 1s;
+.animate__animated.component-comet {
+	--animate-duration: 4s;
+}
+
+.component-scroll .fa-solid{
+	font-size:3rem;
+	margin-bottom:10vh;
+}
+.animate__animated.component-scroll {
+	animation-delay: 3s;
 }
 
 
