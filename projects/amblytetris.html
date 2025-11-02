@@ -81,15 +81,18 @@
               </div>
 
 
-                <div class="d-flex w-100">
+                <div class="d-flex w-100 align-items-center">
                   <div class="d-flex flex-fill justify-content-end">
                     <a href="javascript:void(0)" id='left' onclick='leftclick()' class="h1">
                       <i class="fa-solid fa-circle-chevron-left"></i>
                     </a>
                   </div>
                   <div class="d-flex flex-fill justify-content-center">
-                    <a href="javascript:void(0)" id='spin' onclick='spinclick()' class="h1">
-                        <i class="fa-solid fa-rotate-left" data-fa-transform="shrink-10 up-.5" data-fa-mask="fa-solid fa-circle"></i>
+                    <a href="javascript:void(0)" id='spin' onclick='spinclick()' class="h4">
+                        <span class="fa-stack">
+                            <i class="fa-solid fa-circle fa-stack-2x"></i>
+                            <i class="fa-solid fa-rotate-right fa-stack-1x fa-inverse text-dark"></i>
+                        </span>
                     </a>
                   </div>
                   <div class="d-flex flex-fill justify-content-start">
@@ -187,8 +190,8 @@
         //
         //-------------------------------------------------------------------------
 
-        var invisibleLeft = "#FF0000";
-        var invisibleRight = "#0000FF";
+        var invisibleLeft = "#8A0000";
+        var invisibleRight = "#0000C2";
 
 
         var i = { id: 'i', size: 4, blocks: [0x0F00, 0x2222, 0x00F0, 0x4444], color: invisibleLeft, color2: invisibleRight };
